@@ -1,7 +1,4 @@
-# giaodien-html
-Tổng hợp html
-
-<h1>HandlePicup</h1>
+<h1>HandlePick-up</h1>
 <p>Handpicked Colors :</p> 
 <a href="https://flatuicolors.com"> Flat UI Color </a>
 <p>Khung HTML</p>
